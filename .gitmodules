@@ -1,0 +1,3 @@
+[submodule "exts/hamming-codec"]
+	path = exts/hamming-codec
+	url = https://github.com/dantrim/hamming-codec.git
